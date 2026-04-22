@@ -17,7 +17,7 @@ __pycache__/
 zillow_agents_profilestest.csv
 zillow_agents_profiles_detailed.csv
 zillow_agents_profiles.csv
-
+app_ur1.py
 # Playwright Profiles
 new_profile/
 
