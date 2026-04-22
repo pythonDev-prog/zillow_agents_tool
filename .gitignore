@@ -1,0 +1,32 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Output
+*.csv
+zillow_agents_profilestest.csv
+zillow_agents_profiles_detailed.csv
+zillow_agents_profiles.csv
+
+# Playwright Profiles
+new_profile/
+
+# VSCode or other IDEs
+.vscode/
+.idea/
+
+# Custom Exclusions
+mysql-workbench/
+helping codes/
+nopecha-extension
+
