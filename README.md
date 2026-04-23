@@ -1,4 +1,6 @@
 # Zillow Agent Scraper 🏠
+<img width="532" height="732" alt="image" src="https://github.com/user-attachments/assets/c9fdeda8-4426-4b76-a4c2-55416abdb677" />
+
 
 A professional, multi-threaded Desktop Application built with Python, CustomTkinter, and Playwright for scraping comprehensive real estate agent data from Zillow.
 
